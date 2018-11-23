@@ -1,10 +1,10 @@
-<£¿php ·µ»ØÊý×é£¨  
-  ' client_id '  =>  ' 4748b55b-210b-48b5-8f5d-8f08ddc16a0d '£¬
-  ' client_secret '  =>  ' kzqzoUZFL6121?gxURV1#{: '£¬
-  ' redirect_uri '  =>  ' https://ju.tn/onedrive-login '£¬
-  ' onedrive_root ' =>  ' '£¬ // onedriveÖÐÒª¹²ÏíµÄÄ¿Â¼£¬Ä¬ÈÏÎª¸ùÄ¿Â¼£¬¿ÉÒÔ¸Ä³ÉÈç£º/ share
-  ' cache_type ' =>  ' file '£¬ // sqliteÐèÒªpdoÖ§³Ö
-  ' cache_expire_time '  =>  3600£¬
-  ' cache_refresh_time '  =>  600£¬
-  ' root_path '  =>  '£¿¡°
-£©;
+<ï¼Ÿphp è¿”å›žæ•°ç»„ï¼ˆ  
+  ' client_id '  =>  ' b4f61052-51bf-4ad8-a7b6-5afa7cf40533 'ï¼Œ
+  ' client_secret '  =>  'qvksjEAAR^pgMBU00771$[%'ï¼Œ
+  ' redirect_uri '  =>  ' https://ju.tn/onedrive-login 'ï¼Œ
+  ' onedrive_root ' =>  ' 'ï¼Œ // onedriveä¸­è¦å…±äº«çš„ç›®å½•ï¼Œé»˜è®¤ä¸ºæ ¹ç›®å½•ï¼Œå¯ä»¥æ”¹æˆå¦‚ï¼š/ share
+  ' cache_type ' =>  ' file 'ï¼Œ // sqliteéœ€è¦pdoæ”¯æŒ
+  ' cache_expire_time '  =>  3600ï¼Œ
+  ' cache_refresh_time '  =>  600ï¼Œ
+  ' root_path '  =>  'ï¼Ÿâ€œ
+ï¼‰;
